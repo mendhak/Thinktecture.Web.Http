@@ -1,0 +1,10 @@
+NuGetPublish/
+_ReSharper.*/
+bin/
+obj/
+build/
+packages/
+TestResults/
+
+*.suo
+*.user
